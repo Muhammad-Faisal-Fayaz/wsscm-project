@@ -3,15 +3,15 @@ html {
   }
 
 :root {
-  --green: #2d7a3a;
-  --green-light: #46a941;
+  --green: #4ec8cc;
+  --green-light: #71cdcf;
   --green-pale: #e8f5e9;
   --blue: #1a6fa0;
   --blue-light: #89bfe2;
   --dark: #0d1f0e;
   --gray: #6b7280;
-  --bg: #f7f9f7;
-  --gold: #c9a84c;
+  --bg: #dce6dc;
+  --gold: #ecc250;
 }
 *,
 *::before,
