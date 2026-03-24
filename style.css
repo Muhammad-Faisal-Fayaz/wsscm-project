@@ -10,7 +10,7 @@ html {
   --blue-light: #89bfe2;
   --dark: #101d11;
   --gray: #6b7280;
-  --bg: #a1eca1;
+  --bg: #7ad27a;
   --gold: #ecc250;
 }
 *,
@@ -20,9 +20,7 @@ html {
   padding: 0;
   box-sizing: border-box;
 }
-html {
-  scroll-behavior: smooth;
-}
+
 body {
   font-family: "DM Sans", sans-serif;
   background: var(--bg);
